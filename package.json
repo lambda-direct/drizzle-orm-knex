@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "drizzle-orm": "^0.9.15",
+    "drizzle-orm": "^0.10.42",
     "knex": "^0.95.15"
   }
 }
